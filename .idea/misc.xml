@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andriod/EX3/MyWeather-master/app/src/main/res/layout/activity_weather.xml" value="0.17300724637681159" />
+        <entry key="..\:/Andriod/EX3/MyWeather-master/app/src/main/res/layout/forecast.xml" value="0.1793478260869565" />
+        <entry key="..\:/Andriod/EX3/MyWeather-master/app/src/main/res/layout/forecast_item.xml" value="0.1793478260869565" />
+        <entry key="..\:/Andriod/EX3/MyWeather-master/app/src/main/res/layout/now.xml" value="0.1793478260869565" />
+        <entry key="..\:/Andriod/EX3/MyWeather-master/app/src/main/res/layout/title.xml" value="0.1793478260869565" />
+        <entry key="..\:/Andriod/EX3/MyWeather-master/app/src/main/res/layout/weather.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
